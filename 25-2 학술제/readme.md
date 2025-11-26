@@ -95,3 +95,10 @@ wafer-cost-model
  ┣ 📂 data         # Simulation data & parameters
  ┣ 📂 notebooks    # Analysis & Visualization (Jupyter)
  ┗ README.md      # Project Documentation
+```
+
+---
+* 단가 계산기 사이트
+
+    https://wafer-app-hupbzlqxpqdabwyckcuqrj.streamlit.app/
+
